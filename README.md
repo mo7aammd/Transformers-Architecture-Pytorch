@@ -1,2 +1,4 @@
 #Transformers Architecture Pytorch
-![Transformers Architecture](/img/attention_transformer.png?raw=true "Transformers Architecture")
+
+
+<img src="/img/attention_transformer.png" alt="drawing" width="400"/>
